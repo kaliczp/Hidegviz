@@ -1,0 +1,25 @@
+* Tervek
+** GitHub
+*** DONE Repository létrehozása
+GitHub könyv alapján néhány basic beállítás helyben,
+majd Repository a GitHubon, s ~git clone~ 
+*** TODO Munkafájl létrehozása
+Az org fájl létrehozása és hozzáadása a repository-hoz.
+Csináltam egy ~.gitignore~ fájlt is az emacs tartalék fájloknak is.
+*** TODO Kollégák meghívása
+
+** TeaFiles
+discretelogics.com idősor kezelő formátuma.
+TeaShell, TeaTime
+
+Hogyan nézhető?
+
+** Szerkezet
+
+*** Relációs adatbázis a nyers fájlokról
+Két külön dolog. Mi hol van nyers fájlban. 
+
+*** Gyors átnézet
+Szemlélhető adatbázis, eselteg real-time betölt részeket
+a nyers adatokból, s ebből lehet elmenteni elemzéshez részeket.
+Ez mehetne a TeaFile segítségével.
