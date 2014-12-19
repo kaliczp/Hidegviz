@@ -3,16 +3,32 @@
 *** DONE Repository létrehozása
 GitHub könyv alapján néhány basic beállítás helyben,
 majd Repository a GitHubon, s ~git clone~ 
-*** TODO Munkafájl létrehozása
+*** DONE Munkafájl létrehozása
 Az org fájl létrehozása és hozzáadása a repository-hoz.
 Csináltam egy ~.gitignore~ fájlt is az emacs tartalék fájloknak is.
+
+~git push~-al némi azonosítással simán felment a klónozott GitHub
+repositoryba.
+
 *** TODO Kollégák meghívása
+Hogyan tudom invitálni a kollégákat?
+
+*** TODO Használat
+Mások hogyan committoljanak? Hogyan legyen a közös munka?
+
+** emacs és org
+Rövid bemutató és használati segítség.
+
+*** TODO Hogyan megy az emacs git integráció?
 
 ** TeaFiles
 discretelogics.com idősor kezelő formátuma.
 TeaShell, TeaTime
 
 Hogyan nézhető?
+
+Találtam egy utalást az R-re, látszólag egy fejlesztőtől:
+[[http://www.nuclearphynance.com/Show%2520Post.aspx?PostIDKey%3D165833][http://www.nuclearphynance.com/Show%20Post.aspx?PostIDKey=165833]]
 
 ** Szerkezet
 
