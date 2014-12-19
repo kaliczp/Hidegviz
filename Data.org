@@ -24,6 +24,7 @@ Rövid bemutató és használati segítség.
 ** TeaFiles
 discretelogics.com idősor kezelő formátuma.
 TeaShell, TeaTime
+Ez nagyon klassz!
 
 Hogyan nézhető?
 
