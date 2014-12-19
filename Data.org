@@ -11,6 +11,7 @@ Csináltam egy ~.gitignore~ fájlt is az emacs tartalék fájloknak is.
 ** TeaFiles
 discretelogics.com idősor kezelő formátuma.
 TeaShell, TeaTime
+Ez nagyon klassz!
 
 Hogyan nézhető?
 
