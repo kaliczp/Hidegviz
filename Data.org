@@ -40,3 +40,60 @@ Két külön dolog. Mi hol van nyers fájlban.
 Szemlélhető adatbázis, eselteg real-time betölt részeket
 a nyers adatokból, s ebből lehet elmenteni elemzéshez részeket.
 Ez mehetne a TeaFile segítségével.
+
+* Adatkivételi szabályok
+
+Ide kellene beszúrni a jelenlegi adatkivételi protokollt, amit
+Kati kidolgozott.
+
+* Könyvtárstruktúra leírása
+
+Évente egy külön mappába gyűlnek az adatok.
+
+Nem kell túlbonyolítani.
+
+Mintát kellene kidolgozni, lehetőleg ne a legegyszerűbb esetre.
+Kompromisszum 2000, de 1992-vel kezdünk.
+
+** Absztrakciós egységek
+
+*** Észlelés (Observation)
+
+**** Helyazonosító (Location)
+
+***** Név
+Az észlelők által használt név.
+
+***** Pozíció 
+WGS84 koordináta pár.
+
+**** Időbélyeg (Time-stamp)
+
+
+**** Észlelés módja (Observation method)
+***** Adatgyűjtő (Data-logger)
+Legyen egy nyers adat egység??
+
+****** Szenzor (Sensor)
+Van olyan, hogy szenzoronként egy fájlba gyűjt az adatgyűjtő, van
+olyan, hogy szenzoronként több fájlba.
+
+A adatbázis szenzora az lehet a valóságtól elvonatkoztatott is,
+pl. a hőmérséklet szenzorok összessége a meteorológiai állomásban
+képezhet egy szenzort.
+
+
+*** Kézi mérés
+Jegyzőkönyvön szereplő adatok. Legegyszerűbb a beszkennelt képre
+hivatkozni.
+
+**** Időpont
+
+**** Helyadatok
+Választható lista, amiből kiválaszthatunk.
+
+**** Megjegyzés (Comment)
+Ide kell beírni a rendkívüli eseményeket.
+
+* Adatgyűjtők leírása
+Ezt ki kellene tölteni legalább 1992-re.
