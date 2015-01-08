@@ -57,10 +57,9 @@ Kompromisszum 2000, de 1992-vel kezdünk.
 
 ** Absztrakciós egységek
 
-*** Észlelés (Observation)
+*** Adatkivétel (Data download)
 
 **** Helyazonosító (Location)
-
 ***** Név
 Az észlelők által használt név.
 
@@ -68,11 +67,12 @@ Az észlelők által használt név.
 WGS84 koordináta pár.
 
 **** Időbélyeg (Time-stamp)
-
-
-**** Észlelés módja (Observation method)
-***** Adatgyűjtő (Data-logger)
+A nyers adatfájl kivételének időpontja.
+**** Adatgyűjtő (Data-logger)
 Legyen egy nyers adat egység??
+Tartalmazza az adatgyűjtő cseréjére vonatkozó információkat. Ekkor
+új szenzorok kerülhettek beépítésre, vagy éppen kiszerelésre.
+Vagy a szenzor nem változott, de a műtárgyon végeztünk átalakítást.
 
 ****** Szenzor (Sensor)
 Van olyan, hogy szenzoronként egy fájlba gyűjt az adatgyűjtő, van
@@ -87,7 +87,7 @@ képezhet egy szenzort.
 Jegyzőkönyvön szereplő adatok. Legegyszerűbb a beszkennelt képre
 hivatkozni.
 
-**** Időpont
+**** Időbélyeg (Time-stamp)
 
 **** Helyadatok
 Választható lista, amiből kiválaszthatunk.
