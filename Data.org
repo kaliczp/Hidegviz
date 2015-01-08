@@ -96,4 +96,36 @@ Választható lista, amiből kiválaszthatunk.
 Ide kell beírni a rendkívüli eseményeket.
 
 * Adatgyűjtők leírása
-Ezt ki kellene tölteni legalább 1992-re.
+
+** HHM (Hidegví-völgyi Hidrometeorológiai Mérőállomás)
+Erre a mérőhelyre a későbbiekben több független adatgyűjtő
+került, amik ugyan azon a helyen, ugyan azt a paramétert mérik.
+Külön kezeljük, vagy egybe? Mérőhely vagy adatgyűjtő??
+
+*** Történet
+1992-ben digitalizálva. Előtte pontszíníróval működött.
+Tehát előtte is vannak analóg formában adatok.
+*** Szenzorok
+Egy fájlba gyűlnek. A két fejezetre (csapadék és hőmérséklet) bontva
+szoktam előfeldolgozni.
+
+**** Billenőedényes csapadékmérő
+A billenőedény billenéseit rögzíti. 0.5 mm-enként billen egyet.
+**** Hőmérséklet szenzor
+Több is van belőle
+***** Levegőhőmérséklet
+Egy sima platina ellenálláshőmérő angolházikóban.
+***** Nedves hőmérőpár
+A száraz párja a sima levegőhőmérséklet. A 90-es évek vége
+óta nem működik, előtte lehetett belőle páratartalmat számolni.
+***** Talajhőmérők
+Több szintben mérik a talaj hőméréskletét.
+
+** FÁ (Farkas-ároki bukóláda)
+*** Történet
+
+** VÁ (Vadkan-ároki bukóláda)
+*** Történet
+
+** HÁZ (Ház melletti mérőbukó)
+*** Történet
