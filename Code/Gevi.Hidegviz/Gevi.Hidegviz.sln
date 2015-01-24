@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gevi.Hidegviz.Core", "Gevi.Hidegviz.Core\Gevi.Hidegviz.Core.csproj", "{FA61CB88-017F-4C4B-BAA2-5C978861D80E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gevi.Hidegviz.Gtk", "Gevi.Hidegviz.Gtk\Gevi.Hidegviz.Gtk.csproj", "{A6BC3980-D7E8-48B3-88CE-EC2921C3884D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6BC3980-D7E8-48B3-88CE-EC2921C3884D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6BC3980-D7E8-48B3-88CE-EC2921C3884D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6BC3980-D7E8-48B3-88CE-EC2921C3884D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6BC3980-D7E8-48B3-88CE-EC2921C3884D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA61CB88-017F-4C4B-BAA2-5C978861D80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA61CB88-017F-4C4B-BAA2-5C978861D80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA61CB88-017F-4C4B-BAA2-5C978861D80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA61CB88-017F-4C4B-BAA2-5C978861D80E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

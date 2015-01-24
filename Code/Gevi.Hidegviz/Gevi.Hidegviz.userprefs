@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Gevi.Hidegviz.Gtk/Gevi.Hidegviz.Gtk.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gevi.Hidegviz.Core/Model/Observation.cs">
+    <Files>
+      <File FileName="Gevi.Hidegviz.Core/Model/Observation.cs" Line="1" Column="1" />
+      <File FileName="Gevi.Hidegviz.Core/Database/Repository.cs" Line="1" Column="1" />
+      <File FileName="Gevi.Hidegviz.Gtk/MainWindow.cs" Line="19" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
