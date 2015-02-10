@@ -1,3 +1,7 @@
+Hidegviz data -*- mode: org -*-
+#+TITLE: Hidegvíz-völgy adatok
+#+LANGUAGE: hu
+
 * Tervek
 ** GitHub
 *** DONE Repository létrehozása
